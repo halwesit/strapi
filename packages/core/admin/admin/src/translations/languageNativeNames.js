@@ -1,6 +1,7 @@
 const languageNativeNames = {
   ar: 'العربية',
   cs: 'Čeština',
+  ckb: 'کوردی (سۆرانی)',
   de: 'Deutsch',
   dk: 'Dansk',
   en: 'English',
